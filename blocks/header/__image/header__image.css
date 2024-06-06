@@ -1,0 +1,8 @@
+.header__image {
+  display: block;
+  height: 100%;
+  background-image: url(/images/banks.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top right;
+}

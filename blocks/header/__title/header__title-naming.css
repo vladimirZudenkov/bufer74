@@ -1,0 +1,9 @@
+.header__title-naming {
+  font-size: 40px;
+  color: #00549c;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+  display: grid;
+}

@@ -1,12 +1,11 @@
 .header {
-  display: flex;
-  padding-top: 28px;
-  justify-content: space-between;
-  align-items: flex-end;
-  width: 1184px;
+  display: grid;
+  grid-template-columns: auto 40%;
+  width: 100%;
+  min-height: 360px;
 }
 
-
+/*
 @media screen and (max-width: 1279px) {
   .header {
     width: 928px;
@@ -28,3 +27,4 @@
   }
 }
 
+*/
