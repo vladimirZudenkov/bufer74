@@ -3,7 +3,7 @@
   height: 100%;
   align-content: center;
   justify-content: end;
-  background-image: url(/images/logo.png);
+  background-image: url(../../../images/logo.png);
   background-repeat: no-repeat;
   background-size: contain;
   justify-items: center;
